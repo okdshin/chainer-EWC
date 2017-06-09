@@ -1,5 +1,8 @@
-Implementation of EWC for MNIST
+Implementation of EWC for MNIST by Chainer
 ===
+
+This is an implementation of EWC introduced in [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796) by Chainer
+
 
 - 3 layer NN
 - hidden num = 50
