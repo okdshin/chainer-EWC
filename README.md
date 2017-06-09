@@ -1,8 +1,10 @@
 Implementation of EWC for MNIST
 ===
 
-3 layer NN
-lambda=1 epoch=100
+- 3 layer NN
+- hidden num = 50
+- lambda = 1
+- epoch = 100
 
 
 Task A only
